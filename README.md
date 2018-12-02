@@ -15,3 +15,7 @@ Read these sections from the [Wikipedia Article](https://en.wikipedia.org/wiki/I
 OR
 
 Watch the first 43 minuttes of this [video](https://www.youtube.com/watch?v=EkNq4TrHP_U)
+
+## Exercises
+TBD
+
