@@ -7,7 +7,7 @@ Since must of you succeed in installing Virtual Box and Kali Linux last week, I 
 So install Virtual Box and Kali Linux as explained last week before this lesson
 
 
-##What to Read OR Watch
+## What to Read OR Watch
 Read these sections from the [Wikipedia Article](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 - Key architectural principles
 - The sections describing each layer - Link Layer, Internet Layer, Transport Layer, Application Layer
