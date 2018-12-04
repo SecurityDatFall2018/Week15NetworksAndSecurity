@@ -17,5 +17,5 @@ OR
 Watch the first 43 minuttes of this [video](https://www.youtube.com/watch?v=EkNq4TrHP_U)
 
 ## Exercises
-TBD
+[Investigating TCP/IP, DNS and DHCP with Wireshark](https://docs.google.com/document/d/1TWqiRRHUWRHJwSSt1riu84ErxndVuWE_VxXOz4gjhPI/edit?usp=sharing)
 
