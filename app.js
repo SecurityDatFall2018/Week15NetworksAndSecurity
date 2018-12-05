@@ -8,6 +8,7 @@ const UDP_PORT = 5555;
 var socket = dgram.createSocket("udp4", function(msg, rinfo) {
   var daytime = new Date().toISOString();
   let result = 0;
+  //To simulate a service that takes longer time to fullfill
   for(let i=0; i < 10000000;i++){
     result = i;
   }
