@@ -17,6 +17,8 @@ OR
 
 Watch the first 43 minuttes of this [video](https://www.youtube.com/watch?v=EkNq4TrHP_U)
 
+[slides](https://docs.google.com/presentation/d/1hEo6xfHzqeV1pCoTKrZLvuCjeLynndogD6Dna6MBT_E/edit?usp=sharing)
+
 ## Exercises
 [Investigating TCP/IP, DNS and DHCP with Wireshark](https://docs.google.com/document/d/1TWqiRRHUWRHJwSSt1riu84ErxndVuWE_VxXOz4gjhPI/edit?usp=sharing)
 
