@@ -27,7 +27,12 @@ Today we will focus on posible attacks that can be made against individual layer
 
 ## What to Read
 
-TBD
+First of all, make sure you have completed most of the exercises + reflections from day-1 in this week. Then read this:
+- [SYN FLOOD Attack](https://www.cloudflare.com/learning/ddos/syn-flood-ddos-attack/)
+- [UDP Flood Attack](https://www.cloudflare.com/learning/ddos/udp-flood-ddos-attack/?utm_referrer=https://www.cloudflare.com/learning/ddos/http-flood-ddos-attack/?utm_referrer=https://www.cloudflare.com/learning/ddos/syn-flood-ddos-attack/)
+- [ARP explained](https://networklessons.com/cisco/ccnp-route/arp-address-resolution-protocol-explained/) When ever this short article says "OSI Model" just think TCP/IP Model instead
+
+
 
 ## Exercises
 TBD
