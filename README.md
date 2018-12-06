@@ -29,12 +29,14 @@ Today we will focus on posible attacks that can be made against individual layer
 
 First of all, make sure you have completed most of the exercises + reflections from day-1 in this week. Then
 
-Read:
+*Read:*
 - [SYN FLOOD Attack](https://www.cloudflare.com/learning/ddos/syn-flood-ddos-attack/) (3-4 min.)
 - [UDP Flood Attack](https://www.cloudflare.com/learning/ddos/udp-flood-ddos-attack/?utm_referrer=https://www.cloudflare.com/learning/ddos/http-flood-ddos-attack/?utm_referrer=https://www.cloudflare.com/learning/ddos/syn-flood-ddos-attack/) (3-4 min.)
 - [ARP explained](https://networklessons.com/cisco/ccnp-route/arp-address-resolution-protocol-explained/) When ever this short article says "OSI Model" just think TCP/IP Model instead (5 min.)
-Watch: 
-- [Arp Poisoning Explained] (https://www.youtube.com/watch?v=RTXAUJ2yqCg) (7 min) Watch, don't do until you know "what goes on" and then only if you are red
+
+*Watch:*
+- [Arp Poisoning Explained](https://www.youtube.com/watch?v=RTXAUJ2yqCg) (7 min) Watch, don't do until you know "what goes on" and then only if you are red
+- [DNS Spoofing and MITM Attacks](https://www.youtube.com/watch?v=VeWeAx3MRDA) (< 7 min)
 
 
 
