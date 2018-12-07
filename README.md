@@ -38,6 +38,8 @@ First of all, make sure you have completed most of the exercises + reflections f
 - [Arp Poisoning Explained](https://www.youtube.com/watch?v=RTXAUJ2yqCg) (7 min) Watch, don't do until you know "what goes on" and then only if you are red
 - [DNS Spoofing and MITM Attacks](https://www.youtube.com/watch?v=VeWeAx3MRDA) (< 7 min)
 
+## Slides
+[slides](https://docs.google.com/presentation/d/1Mkho-BqDRte2NXzaX5SNEQ-Bva2uejvd_LjKNlQwJjM/edit?usp=sharing)
 ## Exercises
 [Network attacks](https://docs.google.com/document/d/1gVMriZKmrK3q3AlGntUY07_LIr0ABsAeS5vMGNd3dJY/edit?usp=sharing)
 
