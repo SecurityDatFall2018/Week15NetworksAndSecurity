@@ -6,9 +6,9 @@ const PORT = 5551;
 const dgram = require("dgram");
 const UDP_PORT = 5555;
 var socket = dgram.createSocket("udp4", function(msg, rinfo) {
-  var daytime = new Date().toISOString();
+  var daytime = "You want our current time, OK here it is: "+ new Date().toISOString();
   let result = 0;
-  //To simulate a service that takes longer time to fullfill
+  //To simulate a service that takes longer time
   for(let i=0; i < 10000000;i++){
     result = i;
   }
@@ -21,7 +21,7 @@ var socket = dgram.createSocket("udp4", function(msg, rinfo) {
 })
 socket.on('listening', () => {
   let addr = socket.address();
-  console.log(`Listening for UDP packets at ${addr.address.address}:${addr.port}`);
+  console.log(`Listening for UDP packets at ${addr.address}:${addr.port}`);
 });
 socket.bind(UDP_PORT);
 
@@ -30,4 +30,4 @@ app.get("/",(req,res)=>{
   test from Kali, with: netcat -u ${req.hostname} 5555  `)
 })
 
-app.listen(PORT,()=>console.log(`Server started listening on port ${PORT}`));
+app.listen(PORT,()=>console.log(`HTTP-Server started listening on port ${PORT}`));
